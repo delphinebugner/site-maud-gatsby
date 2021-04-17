@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maud Haering, soprano
-image: https://images.pexels.com/photos/1560093/pexels-photo-1560093.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
+image: /img/flavor_wheel.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
